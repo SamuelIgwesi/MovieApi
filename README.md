@@ -26,7 +26,7 @@ An open-source RESTful API to manage and access movie data. Perfect for develope
 
 1. **Clone the repo**:
    ```bash
-   git clone https://github.com/your-username/movie-app-api.git
+   git clone https://github.com/SamuelIgwesi/movie-app-api.git
    ```
 2. **Install dependencies**:
    ```bash
